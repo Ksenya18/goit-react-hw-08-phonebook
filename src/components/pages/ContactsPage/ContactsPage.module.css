@@ -1,0 +1,17 @@
+.phonebook {
+  margin-top: 80px;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  color: gray;
+}
+
+.contacts {
+  margin-top: 85px;
+  align-items: center;
+  text-align: center;
+  font-size: 35px;
+  font-weight: 700;
+  color: gray;
+}

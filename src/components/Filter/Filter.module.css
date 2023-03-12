@@ -1,0 +1,16 @@
+.contactsContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding-top: 1px;
+}
+
+.inputFilter {
+  border-radius: 5px;
+  border: 1px solid gray;
+  background-color: blanchedalmond;
+  justify-content: center;
+}

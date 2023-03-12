@@ -1,0 +1,28 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.item {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  align-items: center;
+  width: 250px;
+  padding: 20px;
+  margin-left: 0;
+  border-radius: 15px;
+  border: 1px solid grey;
+  background-color: blanchedalmond;
+}
+
+.buttonDelete {
+  margin-left: 5px;
+  border: 1px solid grey;
+  background-color: aqua;
+  border-radius: 5px;
+}
